@@ -1,0 +1,26 @@
+.card{
+    background-color: darkslategray;
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+}
+input{
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+#btn{
+    margin-left: 170px;
+}
+.tbl{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+   
+    margin-top: 5%;
+    width: 50% !important;
+    margin-left: 40%;
+    border: none;
+    height: 60%;
+}
